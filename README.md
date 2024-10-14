@@ -8,7 +8,6 @@ SecureVault - это веб-приложение, предназначенное
 
 Архитектура:
 
-[SecureVault Architecture)
 ![1](https://github.com/user-attachments/assets/ed9b8ea7-5906-4dca-b985-7d7dd1f509df)
 
 Компоненты:
