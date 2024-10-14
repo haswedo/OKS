@@ -13,6 +13,10 @@ SecureVault - это веб-приложение, предназначенное
 
 ![1](https://github.com/user-attachments/assets/ed9b8ea7-5906-4dca-b985-7d7dd1f509df)
 
+Модель нарушителя:
+![2](https://github.com/user-attachments/assets/02002233-850f-4143-a641-ebd5129aa85c)
+
+
 Компоненты:
 
 * Клиент: Веб-интерфейс, написанный на HTML, CSS и JavaScript. Использует REST API для взаимодействия с сервером.
